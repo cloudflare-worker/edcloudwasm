@@ -1,6 +1,6 @@
 name = "edcloudwasm"
 main = "_worker.js"  # 你的 JS 逻辑代码
-compatibility_date = "2026-09-10"
+compatibility_date = "2026-09-1"
 keep_vars = true
 minify = true
 
