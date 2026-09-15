@@ -2,8 +2,8 @@ name: 同步代码
 on:
   workflow_dispatch:
 jobs:
-  Start:
-    runs-on: ubuntu-latest
+  start:
+    runs-on: ubuntu-latests
     steps:
       - uses: actions/checkout@v4
       - run: |
